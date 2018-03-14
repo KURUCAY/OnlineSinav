@@ -7,17 +7,17 @@ Kullanıcıların soru oluşturma, soruların cevaplarını sisteme kaydetme, s�
   
 
 <a href="https://github.com/KURUCAY/OnlineSinav/blob/master/sınav%20ekran%20görüntüleri/cevap%20ekleme2.png" target="_blank">
-<img src="https://github.com/KURUCAY/OnlineSinav/blob/master/sınav%20ekran%20görüntüleri/cevap%20ekleme2.png" width="200" style="max-width:100%;"></a>
-  
-<p>
-<a href="https://github.com/KURUCAY/OnlineSinav/blob/master/sınav%20ekran%20görüntüleri/sinav%20giris3.png" target="_blank">
-<img src="https://github.com/KURUCAY/OnlineSinav/blob/master/sınav%20ekran%20görüntüleri/sinav%20giris3.png" width="200" style="max-width:100%;"></a>&nbsp;&nbsp;&nbsp;
+<img src="https://github.com/KURUCAY/OnlineSinav/blob/master/sınav%20ekran%20görüntüleri/cevap%20ekleme2.png" width="200" style="max-width:100%;"></a>&nbsp;&nbsp;&nbsp;
   
 
-<a href="https://github.com/KURUCAY/OnlineSinav/blob/master/sınav%20ekran%20görüntüleri/sinav4.png" target="_blank">
-<img src="https://github.com/KURUCAY/OnlineSinav/blob/master/sınav%20ekran%20görüntüleri/sinav4.png" width="200" style="max-width:100%;"></a>
+<a href="https://github.com/KURUCAY/OnlineSinav/blob/master/sınav%20ekran%20görüntüleri/sinav%20giris3.png" target="_blank">
+<img src="https://github.com/KURUCAY/OnlineSinav/blob/master/sınav%20ekran%20görüntüleri/sinav%20giris3.png" width="200" style="max-width:100%;"></a>
   
 <p>
+<a href="https://github.com/KURUCAY/OnlineSinav/blob/master/sınav%20ekran%20görüntüleri/sinav4.png" target="_blank">
+<img src="https://github.com/KURUCAY/OnlineSinav/blob/master/sınav%20ekran%20görüntüleri/sinav4.png" width="200" style="max-width:100%;"></a>&nbsp;&nbsp;&nbsp;
+  
+
 <a href="https://github.com/KURUCAY/OnlineSinav/blob/master/sınav%20ekran%20görüntüleri/sonuc5.png" target="_blank">
 <img src="https://github.com/KURUCAY/OnlineSinav/blob/master/sınav%20ekran%20görüntüleri/sonuc5.png" width="200" style="max-width:100%;"></a>&nbsp;&nbsp;&nbsp;
   
