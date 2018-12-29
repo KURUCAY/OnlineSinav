@@ -16,6 +16,7 @@ import Properties.CevaplarPro;
 import Utils.Db;
 
 @Controller
+@RequestMapping("/cevaplar")
 public class CevapController {
 
 	Db db = new Db("question_create", "root", "");
@@ -49,7 +50,7 @@ public String cevapSil(@PathVariable String id ,Model model ) {
 			}
 		
 		} catch (Exception e) {
-		System.out.println("cevap silme iþlemi basarisiz+"+e);
+		System.out.println("cevap silme iï¿½lemi basarisiz+"+e);
 		}
 	
 	
@@ -63,6 +64,7 @@ public String cevapEkle(@RequestParam (defaultValue="")String cevaps,
 		@RequestParam String cevapt ,@PathVariable String id,Model model){
 	
 	try {
+		System.out.println("zcfzdfa");
 		PreparedStatement prs=db.preConnect("call cevpekle(?,?,?)");
 		prs.setString(1, id);
 		prs.setString(2, cevapt);
@@ -78,7 +80,7 @@ public String cevapEkle(@RequestParam (defaultValue="")String cevaps,
 		}
 		
 	} catch (Exception e) {
-		System.out.println("cevap ekleme hatasý"+e);
+		System.out.println("cevap ekleme hatasï¿½"+e);
 	}
 	
 	
